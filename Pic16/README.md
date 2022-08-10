@@ -1,4 +1,4 @@
-##7seg
+## 7seg
 
 -The objective of the polling code is to measure a voltage from 0 to 9.99V and send it to the 7seg
 
